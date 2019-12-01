@@ -2,7 +2,7 @@
 #include "myBank.h"
 
 
-#define NUMBER_OF_ACCOUNTS 50
+
 #define ACCOUNT_IS_NOT_OPEN "the account is not open\n"
 
 double bank[NUMBER_OF_ACCOUNTS][2];
