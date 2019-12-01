@@ -2,6 +2,9 @@
 
 enum boolean {FALSE,TRUE};
 
+#define NUMBER_OF_ACCOUNTS 50
+
+extern double bank[NUMBER_OF_ACCOUNTS][2];
 
 int isFull();
 
